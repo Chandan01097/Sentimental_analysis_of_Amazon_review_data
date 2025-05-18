@@ -1,6 +1,3 @@
-Sure! Here's your original content with **enhanced formatting** and **visual flair** to make it look better for a GitHub README—**no data or structure changed**, just improved presentation:
-
----
 
 # 📦 Sentiment Analysis of Amazon Review Data
 
